@@ -1,0 +1,8 @@
+{
+  "name": "GlobalPulse Video Chat",
+  "description": "A premium global video chat platform connecting people worldwide with AI-powered matching and translation features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
